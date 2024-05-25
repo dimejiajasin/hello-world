@@ -32,6 +32,7 @@
   </div>
 
    <h1> Dimeji, You Got this Going !!!! Keep Learning HARD </h1>
+   <hr>
    <br>
    <p>There are so many things you can do...pick one and leave it to grow</p>
 
