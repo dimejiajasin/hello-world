@@ -33,6 +33,8 @@
 
    <h1> Dimeji, You Got this Going !!!! Keep Learning HARD </h1>
    <hr>
+  <h2> There is so much to learn today!!!</h2>
+  <p> I <strong>hope to launch the</strong> company <em>sometime </em>soon. </p>
    <br>
    <p>There are so many things you can do...pick one and leave it to grow</p>
    <h1>Making it happen by happening</h1> 
